@@ -4,13 +4,13 @@
 
 ---
 
-* [Aprenda programação, com Pokemon](#aprenda-programação-com-pokemon)
-* [Executando o projeto](#executando-o-projeto)
-* [Screenshots](#screenshots)
-* [Contribuindo](#contribuindo)
-* [To-do](#to-do)
-* [Agradecimentos](#agradecimentos)
-* [Colaboradores](#colaboradores)
+- [Aprenda programação, com Pokemon](#aprenda-programação-com-pokemon)
+- [Executando o projeto](#executando-o-projeto)
+- [Screenshots](#screenshots)
+- [Contribuindo](#contribuindo)
+- [To-do](#to-do)
+- [Agradecimentos](#agradecimentos)
+- [Colaboradores](#colaboradores)
 
 ## Aprenda programação, com Pokemon
 
@@ -18,19 +18,19 @@ Programon é um clone open-source dos Pokemon clássicos de GBA, com foco no ens
 
 ## Executando o projeto
 
-Programon é programado em JavaScript em conjunto com a biblioteca Kaboom.js, e precisa do Node.js instalado para funcionar. Para testá-lo, siga as instruções a seguir:
+Programon é programado em JavaScript em conjunto com a biblioteca KAPLAY, e precisa do Node.js instalado para funcionar. Para testá-lo, siga as instruções a seguir:
 
 1. Instale o Node.js:
 
-    As instruções de instalação do Node.js podem ser encontradas no [site do Node.js](https://nodejs.org/en/download/package-manager). Certifique-se de instalar também o **npm** (Node Package Manager) Verifique o funcionamento do Node.js executando os comandos `node -v` e `npm -v`.
+   As instruções de instalação do Node.js podem ser encontradas no [site do Node.js](https://nodejs.org/en/download/package-manager). Certifique-se de instalar também o **npm** (Node Package Manager) Verifique o funcionamento do Node.js executando os comandos `node -v` e `npm -v`.
 
 2. Clone ou baixe o repositório:
 
-    Com o node instalado, é preciso obter os arquivos do projeto. Isso pode ser feito clicando no botão verde escrito _code_ e então em Donwload ZIP e extrair o arquivo, ou clonar o repositório com o comando `git clone https://github.com/ViniciusNunesOliveira/Programon.git`. É necessário ter o [Git instalado](https://git-scm.com/downloads) para isso.
+   Com o node instalado, é preciso obter os arquivos do projeto. Isso pode ser feito clicando no botão verde escrito _code_ e então em Donwload ZIP e extrair o arquivo, ou clonar o repositório com o comando `git clone https://github.com/ViniciusNunesOliveira/Programon.git`. É necessário ter o [Git instalado](https://git-scm.com/downloads) para isso.
 
 3. Executar o projeto:
 
-    Abra o projeto em uma terminal (pode navegar manualmente usando o comando `cd` ou abrir a terminal pelo menu de contexto) e então execute o comando `npm run dev`. Pronto! Você já pode testar o jogo!
+   Abra o projeto em um terminal (pode navegar manualmente usando o comando `cd` ou abrir o terminal pelo menu de contexto) e então execute o comando `npm run dev`. Pronto! Você já pode testar o jogo!
 
 ## Screenshots
 
